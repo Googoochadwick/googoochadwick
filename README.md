@@ -2,7 +2,7 @@
 
 # Hello There!
 
-🔭 I’m currently working on: A resource tracker<br>🌱 I’m currently learning: Open Source, GIT and Python<br>👯 I’m looking to collaborate on: Any project plssssss<br> My Personal Website: [personal website](arush-anand-singh.vercel.app)  (🚧 work in progress 🚧)
+I’m currently working on: A resource tracker<br> I’m currently learning: Open Source, GIT and Python<br> I’m looking to collaborate on: Any project plssssss<br> My Personal Website: [personal website](arush-anand-singh.vercel.app)  (🚧 work in progress 🚧)
 
 
 ## 🌐 Socials:
