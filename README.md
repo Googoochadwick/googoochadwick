@@ -1,9 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on: A resource tracker<br>🌱 I’m currently learning: Open Source, GIT and Python<br>👯 I’m looking to collaborate on: Any project plssssss<br>📫 How to reach me: arush.anand.singh.work@gmail.com
+<img width="1584" height="396" alt="designDAG--02OIzk0XvnTpNY8rqEVvBAg0J04gedit (2)" src="https://github.com/user-attachments/assets/3cf8a23a-330c-4e1a-bf2f-94b9ea304612" />
+
+# Hello There!
+
+🔭 I’m currently working on: A resource tracker<br>🌱 I’m currently learning: Open Source, GIT and Python<br>👯 I’m looking to collaborate on: Any project plssssss<br> My Personal Website: [personal website](arush-anand-singh.vercel.app)  (🚧 work in progress 🚧)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arush-anand-singh-062761346/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arush.anand.singh.work) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arush.anand.singh.work@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arush-anand-singh-062761346/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arush.anand.singh.work)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=medium&logoColor=white)](https://medium.com/@arush.anand.singh.work)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arush.anand.singh.3121@gmail.com) 
 
 ---
 
@@ -41,7 +47,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat\&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
+
 
 ---
 
@@ -93,12 +99,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=googoochadwick&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=googoochadwick&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=googoochadwick&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
 
 
