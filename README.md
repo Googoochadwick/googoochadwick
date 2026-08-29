@@ -7,6 +7,8 @@
 
 <img width="400" alt="IMG_7963_ntsc-ezgif com-optimize" src="https://github.com/user-attachments/assets/c0c15317-95ee-4a76-9a00-1a1e2e116441" />
 
+<div align="center">
+
 ## Arush Anand Singh
 
 **Web Dev**  
@@ -33,18 +35,25 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
 
+</div>
 </td>
 <td width="70%" valign="top">
+<div align="center">
 
 ## Hello there! welcome to my Github.
 <img width="377" height="350" alt="image" src="https://github.com/user-attachments/assets/ff26159b-c0f9-4097-936a-ff7ee28c25f7" />
 
 ### Usually a software developer, but I do love exploring other domains and merging software with hardware to bring change directly to the real world.
 
+---
+
+[![Arush Medium](https://github-readme-medium.vercel.app/?username=sudo.desync)](https://medium.com/@sudo.desync)
+
+---
 
 <img width="2722" height="1579" alt="Frame 1 (1)" src="https://github.com/user-attachments/assets/469557f4-50e6-44f7-a6b5-09cd2e80b543" />
 
-
+</div>
 </td>
 </tr>
 </table>
