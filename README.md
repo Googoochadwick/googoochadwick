@@ -1,3 +1,4 @@
+
 <img width="1584" height="396" alt="designDAG--02OIzk0XvnTpNY8rqEVvBAg0J04gedit (2)" src="https://github.com/user-attachments/assets/3cf8a23a-330c-4e1a-bf2f-94b9ea304612" />
 
 <table>
@@ -38,7 +39,10 @@
 ## Hello there! welcome to my Github.
 <img width="377" height="350" alt="image" src="https://github.com/user-attachments/assets/ff26159b-c0f9-4097-936a-ff7ee28c25f7" />
 
+### Usually a software developer, but I do love exploring other domains and merging software with hardware to bring change directly to the real world.
 
+
+<img width="2722" height="1579" alt="Frame 1 (1)" src="https://github.com/user-attachments/assets/469557f4-50e6-44f7-a6b5-09cd2e80b543" />
 
 
 </td>
