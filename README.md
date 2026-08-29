@@ -4,8 +4,7 @@
 <tr>
 <td width="40%" valign="top">
 
-<img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/fbe73c1e-e9e1-470d-9faa-dc57e37be504" />
-
+<img width="400" alt="IMG_7963_ntsc-ezgif com-optimize" src="https://github.com/user-attachments/assets/c0c15317-95ee-4a76-9a00-1a1e2e116441" />
 
 ## Arush Anand Singh
 
@@ -36,18 +35,13 @@
 </td>
 <td width="70%" valign="top">
 
-## Who Am I?
+## Hello there! welcome to my Github.
+<img width="377" height="350" alt="image" src="https://github.com/user-attachments/assets/ff26159b-c0f9-4097-936a-ff7ee28c25f7" />
 
-I'm a **Software Developer** currently building and shipping personal projects on GitHub, following `Shadow Project` — a live front-end project. My journey is driven by continuous learning, hands-on practice, and a strong commitment to writing clean, functional code.
 
-I have a strong passion for **Front-End Development**, where logic meets creativity and visual design. I enjoy running ideas into real, working interfaces and I'm constantly expanding my toolkit across the web development ecosystem.
 
-At the moment, I'm focused on strengthening my fundamentals, building complete projects from planning and interface design to implementation and delivery — growing my problem-solving skills and technical versatility one project at a time.
 
 </td>
 </tr>
 </table>
-
-
-
 
